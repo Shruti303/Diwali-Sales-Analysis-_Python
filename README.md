@@ -1,8 +1,8 @@
 ## PROJCT-4 ( Using Python)
 
-# Diwali Sales Analysis #
+## Diwali Sales Analysis #
 
-# Sharing Exploratory Data Analyst #
+### Sharing Exploratory Data Analyst #
 
 Obejctive : To improve Customer Experience by analyzing sales data Project Learnings:
 
